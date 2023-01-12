@@ -1,8 +1,7 @@
 # Sign Easy 🤟 🎉
 [Video Demo](https://www.youtube.com/watch?v=L3NoBqH5a7g&ab_channel=AkhilKammila)
 <br />
-[Live App](https://akhilkammila.github.io/Sign-Easy/)
-(because heroku free trial ran out, the backend is not deployed and the "practice" tab is not working)
+Our free trial for website deployment ran out so above video is run locally and has all features working (machine learning plus the standard translator).
 
 ## 💡 Inspiration
 Millions of people with impaired communication abilities rely on sign language to communicate with others. However, most people have no sign language knowledge in the slightest. We noticed a need for educating the mass public on how to use and understand basic ASL. Sign-Easy arose as a result of this.
